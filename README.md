@@ -1,4 +1,5 @@
 # WordPair Generator
+
 A simple app that generates WordPairs infinitely as you scroll below.
 
 __The Home view__
